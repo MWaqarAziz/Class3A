@@ -5,7 +5,8 @@ import Props from './Components/Props'
 function App() {
   return (
     <div className="App" >
-      <Props name = "Ali" />  
+      <Props name = "Ali" name1="Abbas" />  
+      <Props name="Ammir" name1="Abbas" /> 
     </div>
   );
 }
