@@ -4,8 +4,8 @@ import React from 'react';
 import Props from './Components/Props'
 function App() {
   return (
-    <div >
-      <Props name="Ali"/>  
+    <div className="App" >
+      <Props />  
     </div>
   );
 }
